@@ -1,0 +1,36 @@
+body {
+background-color:#000;
+font-family:sans-serif;
+color:#f9f8f8;
+}
+
+img {
+max-width:100%;
+}
+
+.cnt {
+text-align:center;
+}
+
+table {
+border-collapse:separate;
+}
+
+td {
+border:0;
+text-align:center;
+padding:10px;
+}
+
+.wdt {
+width:100%;
+}
+
+a:link,a:active,a:visited {
+color:#cdd3ce;
+text-decoration:none;
+}
+
+a:hover {
+color:#bbb5bd;
+}
