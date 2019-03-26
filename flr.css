@@ -12,11 +12,7 @@ max-width:100%;
 text-align:center;
 }
 
-table {
-border-collapse:separate;
-}
-
-table.center {
+table.cntr {
 margin-left:auto;
 margin-right:auto;
 }
