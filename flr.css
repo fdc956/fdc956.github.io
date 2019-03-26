@@ -31,6 +31,10 @@ padding:5px;
 width:100%;
 }
 
+.wdh {
+width:480px;
+}
+
 a:link,a:active,a:visited {
 color:#6c91c2;
 text-decoration:none;
