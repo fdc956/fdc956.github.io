@@ -1,6 +1,7 @@
 body {
 background-color:#000;
-font-family:sans-serif;
+font-family:"Lucida Console", Monaco, monospace!important;
+font-size:1.1em;
 color:#f9f8f8;
 }
 
@@ -32,10 +33,10 @@ width:100%;
 }
 
 a:link,a:active,a:visited {
-color:#cdd3ce;
+color:#6c91c2;
 text-decoration:none;
 }
 
 a:hover {
-color:#bbb5bd;
+color:#7fd1b9;
 }
