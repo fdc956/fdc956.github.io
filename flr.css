@@ -5,7 +5,7 @@ color:#f9f8f8;
 }
 
 img {
-max-width:90%;
+max-width:100%;
 }
 
 .cnt {
@@ -29,10 +29,6 @@ padding:5px;
 
 .wdt {
 width:90%;
-}
-
-.wdt5 {
-width:50%;
 }
 
 a:link,a:active,a:visited {
