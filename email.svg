@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="30.789mm" height="5.6506mm" version="1.1" viewBox="0 0 30.789 5.6506" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(-21.116 -29.89)">
+<svg width="31.816mm" height="5.6497mm" version="1.1" viewBox="0 0 31.816 5.6497" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(-20.59 -29.89)">
   <g fill="#5fd3bc" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal" aria-label="info@flr.one">
    <path d="m21.556 30.866c0.27093 0 0.44591-0.16933 0.44591-0.44027s-0.17498-0.44591-0.44591-0.44591-0.44027 0.17498-0.44027 0.44591 0.16933 0.44027 0.44027 0.44027zm-0.36124 3.2512h0.71684v-2.7432h-0.71684z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
    <path d="m22.596 34.118h0.72249v-1.9643c0.15804-0.12982 0.34996-0.19756 0.5588-0.19756 0.34996 0 0.52493 0.19756 0.52493 0.57009v1.5917h0.72249v-1.6933c0-0.67733-0.38382-1.095-0.99907-1.095-0.33302 0-0.64347 0.11853-0.88618 0.34431l-0.12982-0.29916h-0.51364z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
@@ -14,6 +14,6 @@
    <path d="m46.406 34.118h0.72249v-1.9643c0.15804-0.12982 0.34996-0.19756 0.5588-0.19756 0.34996 0 0.52493 0.19756 0.52493 0.57009v1.5917h0.72249v-1.6933c0-0.67733-0.38382-1.095-0.99907-1.095-0.33302 0-0.64347 0.11853-0.88618 0.34431l-0.12982-0.29916h-0.51364z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
    <path d="m50.861 34.174c0.32173 0 0.67169-0.06773 0.9652-0.19191l-0.15804-0.49671c-0.22013 0.09031-0.46284 0.14111-0.69427 0.14111-0.49671 0-0.79587-0.23142-0.88053-0.68298h1.778c0.01693-0.11289 0.03387-0.28222 0.03387-0.4064 0-0.75071-0.4572-1.2192-1.191-1.2192-0.81844 0-1.366 0.58138-1.366 1.4337 0 0.88053 0.57573 1.4224 1.5127 1.4224zm-0.19756-2.3029c0.3556 0 0.56444 0.22578 0.56444 0.62089h-1.1515c0.04516-0.4064 0.24836-0.62089 0.58702-0.62089z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
   </g>
-  <path d="m21.119 35.44h30.758" fill="none" stroke="#5fd3bc" stroke-width=".2"/>
+  <path d="m20.59 35.44h31.816" fill="none" stroke="#5fd3bc" stroke-width=".2"/>
  </g>
 </svg>
