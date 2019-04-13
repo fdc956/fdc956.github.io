@@ -31,7 +31,7 @@ width:100%;
 }
 
 .pdn {
-margin:.8em .8em;
+margin:.8em;
 }
 
 .tg {
@@ -40,21 +40,21 @@ border-spacing:0;
 }
 
 .tg .tggr {
-background-color:#343434;
+background-color:#222;
 text-align:center;
 vertical-align:top;
 border-color:inherit;
 }
 
 .tg .tggn {
-background-color:#002936;
+background-color:#032b43;
 text-align:left;
 vertical-align:top;
 border-color:inherit;
 }
 
 .tg .tgbl {
-background-color:#1e001b;
+background-color:#34695e;
 text-align:left;
 vertical-align:top;
 border-color:inherit;
