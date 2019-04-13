@@ -1,0 +1,43 @@
+body {
+background-color:#000;
+font-family:"Lucida Console", Monaco, monospace;
+color:#f9f8f8;
+}
+
+img {
+max-width:100%;
+}
+
+.cnt {
+text-align:center;
+}
+
+table.cntr {
+margin-left:auto;
+margin-right:auto;
+}
+
+td {
+text-align:center;
+padding:5px;
+}
+
+.wdt {
+width:100%;
+}
+
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#556B2F;}
+.tg th{padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#556B2F;}
+.tg .tg-34fe{background-color:#343434;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-xwmr{background-color:#34696d;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+
+a:link,a:active,a:visited {
+color:#6c91c2;
+text-decoration:none;
+}
+
+a:hover {
+color:#7fd1b9;
+}
