@@ -30,7 +30,7 @@ font-size:large;
 
 td {
 text-align:center;
-padding:5px;
+padding:5px 0;
 }
 
 .wdt {
@@ -38,15 +38,15 @@ width:100%;
 }
 
 .pdn {
-margin:.8em;
+margin:.8em 0;
 }
 
 .pdnz {
-padding:.7em;
+padding:.7em 0;
 }
 
 .pdnzt {
-padding-top:1.3em;
+padding-top:1.3em 0;
 }
 
 .tg {
