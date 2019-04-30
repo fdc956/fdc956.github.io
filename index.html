@@ -14,42 +14,8 @@
 <meta name="msapplication-TileColor" content="#000">
 <meta name="theme-color" content="#000">
 <script src="/jquery.min.js"></script>
-<script>
-    $(document).ready(function(){
-        function getData(){
-            $.ajax({
-                type: 'POST',
-                url: 'dj.php',
-                success: function(data){
-                    $('#dj').html(data);
-                }
-            });
-        }
-        getData();
-        setInterval(function () {
-            getData();
-        }, 5000);  // it will refresh your data every 1 sec
-
-    });
-</script>
-<script>
-    $(document).ready(function(){
-        function getData(){
-            $.ajax({
-                type: 'POST',
-                url: 'song.php',
-                success: function(data){
-                    $('#song').html(data);
-                }
-            });
-        }
-        getData();
-        setInterval(function () {
-            getData();
-        }, 5000);  // it will refresh your data every 1 sec
-
-    });
-</script>
+<script src="/dj.js"></script>
+<script src="/song.js"></script>
 <table class="wdt cntr">
 <tr>
 <td class="pdnz"><img src="/flr.svg" alt="FreeLeechRadio" width="300" height="50">
@@ -61,6 +27,7 @@
 <div class="container" id="song"></div>
 <tr>
 <td><a href="/stream">Stream</a> | <a href="/stream.m3u">M3U</a> | <a href="/stream.pls">PLS</a> | <a href="/sea/.sessions">Archive</a>
+<hr>
 <tr>
 <td class="lrg"><a href="/sched.html">DJ Schedule</a> | <a href="https://kiwiirc.com/client/irc.scratch-network.net:+6697/radio" target=”_blank”>Chat Room</a> (<a href="https://kiwiirc.com/client/irc.scratch-network.net:+6697/radio/?&theme=cli" target=”_blank”>Night Mode</a>)
 <tr>
