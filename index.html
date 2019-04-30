@@ -14,8 +14,42 @@
 <meta name="msapplication-TileColor" content="#000">
 <meta name="theme-color" content="#000">
 <script src="/jquery.min.js"></script>
-<script src="/dj.js"></script>
-<script src="/song.js"></script>
+<script>
+	    $(document).ready(function(){
+        function getData(){
+            $.ajax({
+                type: 'POST',
+                url: 'dj.php',
+                success: function(data){
+                    $('#dj').html(data);
+                }
+            });
+        }
+        getData();
+        setInterval(function () {
+            getData();
+        }, 5000);  // it will refresh your data every 1 sec
+
+    });
+</script>
+<script>
+	    $(document).ready(function(){
+        function getData(){
+            $.ajax({
+                type: 'POST',
+                url: 'song.php',
+                success: function(data){
+                    $('#song').html(data);
+                }
+            });
+        }
+        getData();
+        setInterval(function () {
+            getData();
+        }, 5000);  // it will refresh your data every 1 sec
+
+    });
+</script>
 <table class="wdt cntr">
 <tr>
 <td class="pdnz"><img src="/flr.svg" alt="FreeLeechRadio" width="300" height="50">
