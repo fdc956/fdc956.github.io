@@ -11,6 +11,6 @@
         getData();
         setInterval(function () {
             getData();
-        }, 5000);  // it will refresh your data every 1 sec
+        }, 10000);  // refresh every 10s
 
     });
